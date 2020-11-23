@@ -51,6 +51,17 @@ Outpump is an online magazine born in 2016 that aims to keep its readers updated
 - C
 
 <br />
+
+## Tools
+
+- AWS
+- Cloudflare
+- Git
+- VSCode
+- PyCharm
+- Xcode
+
+<br />
 <br />
 
 [twitter]: https://twitter.com/J0ker98_
