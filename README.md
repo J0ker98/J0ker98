@@ -1,6 +1,6 @@
 ### Hi there, I'm Stefano 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/J0ker98_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJ0ker98&screen_name=J0ker98_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stepzepp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJ0ker98&screen_name=stepzepp)
 
 ## 💻 Software Engineer
 
@@ -10,7 +10,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="J0ker98_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="stepzepp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stefano Zeppieri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stepzepp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -62,7 +62,7 @@ Outpump is an online magazine born in 2016 that aims to keep its readers updated
 <br />
 <br />
 
-[twitter]: https://twitter.com/J0ker98_
+[twitter]: https://twitter.com/stepzepp
 [instagram]: https://instagram.com/stepzepp
 [linkedin]: https://www.linkedin.com/in/stefano-zeppieri/
 [outpump]: https://www.outpump.com/
