@@ -19,10 +19,6 @@
 
 ## Current Projects
 
-### [ARCHVD]
-
-ARCHVD is a conscious curated fashion consignment digital platform. We want to offer a curated second-hand selection of the most sought-after pieces, alongside with engaging a honest and genuine dialogue with fashion and streetwear communities, though our channels.
-
 ### [dropout]
 
 Limited edition sneakers & clothing; innovative streetwear brands and a premier experience. dropout is now open, right in the center of the city of fashion.
