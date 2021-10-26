@@ -1,6 +1,4 @@
-### Stefano Zeppieri
-
-## Hi there, I'm Stefano 👋
+### Hi there, I'm Stefano 👋
 
 ## 💻 Software Engineer
 
