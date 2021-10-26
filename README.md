@@ -68,6 +68,5 @@ With a mathematical approach, we objectively analyze and report trends in the re
 [instagram]: https://instagram.com/stepzepp
 [linkedin]: https://www.linkedin.com/in/stefano-zeppieri/
 [outpump]: https://www.outpump.com/
-[archvd]: https://www.archvd.com/
 [dropout]: https://www.dropoutmilano.com/
 [hypeanalyzer]: https://www.hypeanalyzer.com/
