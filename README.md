@@ -1,11 +1,11 @@
-### Hi there, I'm Stefano 👋
+### Stefano Zeppieri
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/stepzepp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJ0ker98&screen_name=stepzepp)
+## Hi there, I'm Stefano 👋
 
 ## 💻 Software Engineer
 
 - 👨🏻‍🎓 I’m currently studying for my Master Degree in Computer Science at University of Rome "La Sapienza"
-- 📫 How to reach me: [Linkedin]
+- 📫 How to reach me: [Linkedin] - <a href='mailto:stefano@dropoutmilano.com'>stefano@dropoutmilano.com</a>
 - 👟 Fun fact: I love sneakers
 
 ## Connect with me
@@ -13,9 +13,6 @@
 [<img align="left" alt="stepzepp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Stefano Zeppieri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stepzepp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
 
 ## Current Projects
 
@@ -33,9 +30,7 @@ HypeAnalyzer is the world's first tool of sneakers/Supreme secondary market anal
 
 With a mathematical approach, we objectively analyze and report trends in the resell market of Nike, adidas, Jordan, Balenciaga and Asics sneakers, as well as assessing the value of selected items from the weekly drop of the streetwear label Supreme NewYork 1994.
 
-<br />
-
-## Languages
+## Programming Languages
 
 - SwiftUI
 - Python
