@@ -2,7 +2,7 @@
 
 ## 💻 Software Engineer
 
-- 👨🏻‍🎓 I’m currently studying for my Master Degree in Computer Science at University of Rome "La Sapienza"
+- 👨🏻‍🎓 I’m currently studying for my Ph.D. in Computer Science at University of Rome "La Sapienza"
 - 📫 How to reach me: [Linkedin] - <a href='mailto:me@stefanozeppieri.com'>me@stefanozeppieri.com</a>
 - 👟 Fun fact: I love sneakers
 
