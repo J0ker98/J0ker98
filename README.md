@@ -33,6 +33,7 @@ With a mathematical approach, we objectively analyze and report trends in the re
 ## Languages
 
 - SwiftUI
+- Go
 - Python
 - Java
 - PHP
@@ -50,6 +51,7 @@ With a mathematical approach, we objectively analyze and report trends in the re
 ## Tools
 
 - AWS
+- Scaleway
 - Cloudflare
 - Git
 - VSCode
